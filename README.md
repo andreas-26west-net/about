@@ -14,7 +14,6 @@ And that's my main interest currently:
 - learning more Angular,
 - turning everything into Angular which isn't Angular yet...
 
-
 <!---
 andreas-26west-net/andreas-26west-net is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
